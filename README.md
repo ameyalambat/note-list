@@ -6,7 +6,7 @@
 
 - Clone the repository using the command below :
 ```bash
-git clone https://github.com/ameyalambat128/Notetaking-App.git
+git clone https://github.com/ameyalambat/note-list.git
 
 ```
 
